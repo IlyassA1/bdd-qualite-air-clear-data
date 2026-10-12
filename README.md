@@ -74,7 +74,7 @@ Les 12 requêtes se trouvent dans `sql/requetes/` et s'exécutent une à une. Av
 
 ## Équipe
 
-Projet réalisé en équipe de trois : [Lilian Lafon], Ilyass AIT ALI et [Emma Vives].
+Projet réalisé en équipe de trois : Lilian Lafon, Ilyass AIT ALI et Emma Vives.
 
 **Ma contribution :** réalisation du MCD, de la base de données et des requêtes SQL.
 
